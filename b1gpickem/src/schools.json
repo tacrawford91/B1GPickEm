@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Purdue",
+      "image": "./assets/images/purdue.png"
+    },
+    {
+      "id": 2,
+      "name": "Illinois",
+      "image": "./assets/images/illini.png"
+    },
+    {
+      "id": 3,
+      "name": "Indiana",
+      "image": "./assets/images/indiana.png"
+    },
+    {
+      "id": 4,
+      "name": "Iowa",
+      "image": "./assets/images/iowa.png"
+    },
+    {
+      "id": 5,
+      "name": "Michigan",
+      "image": "./assets/images/michigan.png"
+    },
+    {
+      "id": 6,
+      "name": "Michigan State",
+      "image": "./assets/images/michiganSt.png"
+    },
+    {
+      "id": 7,
+      "name": "Minnesota",
+      "image": "./assets/images/minn.png"
+    },
+    {
+      "id": 8,
+      "name": "Nebraska",
+      "image": "./assets/images/nebraska.png"
+    },
+    {
+      "id": 9,
+      "name": "Northwestern",
+      "image": "./assets/images/nw.png"
+    },
+    {
+      "id": 10,
+      "name": "Ohio State",
+      "image": "./assets/images/osu.png"
+    },
+    {
+      "id": 11,
+      "name": "Penn State",
+      "image": "./assets/images/pennstate.png"
+    },
+    {
+      "id": 12,
+      "name": "Wisconsin",
+      "image": "./assets/images/wisco.png"
+    }
+  ]
+  
